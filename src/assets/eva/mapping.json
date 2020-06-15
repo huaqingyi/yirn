@@ -1,0 +1,51 @@
+{
+    "strict": {
+        "text-font-family": "OpenSans-Regular",
+        "text-heading-1-font-size": 36,
+        "text-heading-1-font-weight": "800",
+        "text-heading-1-font-family": "OpenSans-Bold",
+        "text-subtitle-1-font-size": 15,
+        "text-subtitle-1-font-weight": "600",
+        "text-subtitle-1-font-family": "OpenSans-SemiBold",
+        "text-paragraph-1-font-size": 15,
+        "text-paragraph-1-font-weight": "400",
+        "text-paragraph-1-font-family": "OpenSans-Regular",
+        "text-caption-1-font-size": 12,
+        "text-caption-1-font-weight": "400",
+        "text-caption-1-font-family": "OpenSans-Regular",
+        "text-label-font-size": 12,
+        "text-label-font-weight": "800",
+        "text-label-font-family": "OpenSans-Bold"
+    },
+    
+    "color-primary-100": "#FFECD2",
+    "color-primary-200": "#FFD3A6",
+    "color-primary-900": "#7A0C06",
+    "color-primary-transparent-100": "rgba(255, 103, 33, 0.08)",
+    "color-primary-transparent-200": "rgba(255, 103, 33, 0.16)",
+    "color-primary-transparent-600": "rgba(255, 103, 33, 0.48)",
+
+    "color-primary-default": "$color-primary-500",
+    "color-primary-hover": "$color-primary-400",
+    "color-primary-focus": "$color-primary-600",
+    "color-primary-active": "$color-primary-600",
+    "color-primary-disabled": "$color-basic-transparent-300",
+
+    "color-primary-default-border": "$color-primary-default",
+    "color-primary-hover-border": "$color-primary-hover",
+    "color-primary-focus-border": "$color-primary-700",
+    "color-primary-active-border": "$color-primary-active",
+    "color-primary-disabled-border": "$color-primary-disabled",
+
+    "color-basic-100": "#FFFFFF",
+    "color-basic-200": "#F5F5F5",
+    "color-basic-1100": "#141414",
+    "color-basic-transparent-100": "rgba(128, 128, 128, 0.08)",
+    "color-basic-transparent-200": "rgba(128, 128, 128, 0.16)",
+    "color-basic-transparent-600": "rgba(128, 128, 128, 0.48)",
+
+    "background-basic-color-1": "$color-basic-800",
+    "background-basic-color-2": "$color-basic-900",
+    "background-basic-color-3": "$color-basic-1000",
+    "background-basic-color-4": "$color-basic-1100"
+}
